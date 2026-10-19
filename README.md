@@ -6,7 +6,7 @@ Official installer and release channel for **Parth International School ERP** (W
 
 ## Download Latest Version
 
-Ã°Å¸â€œÂ¥ **[Download Setup.exe (Latest Release)](https://github.com/<my-username>/SchoolERP_Releases/releases/latest)**
+**[Download Setup.exe (Latest Release)](https://github.com/<my-username>/SchoolERP_Releases/releases/latest)**
 
 ---
 
